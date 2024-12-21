@@ -3,6 +3,10 @@
 
 The Railway Reservation System is a console-based application developed in C++ that simulates the reservation and cancellation of train tickets. It provides users with functionalities to book tickets, cancel reservations, view booked tickets, and check seat availability across various berth types.
 
+## Background
+
+This program was created during my 2nd year of undergraduate studies while learning advanced C++. It reflects the application of concepts learned during that time to build a practical and functional system.
+
 ## Features
 
 - **Ticket Booking**: Allows users to reserve seats on available trains by providing necessary details.
